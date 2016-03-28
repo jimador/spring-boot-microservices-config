@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f6533a8-46f5-463a-a83a-aaeb76031997" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/turtle-client.properties" afterPath="$PROJECT_DIR$/turtle-client.properties" />
-    </list>
+    <list default="true" id="2f6533a8-46f5-463a-a83a-aaeb76031997" name="Default" comment="" />
     <ignored path="spring-boot-microservices-config.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,10 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="turtle-service.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="turtle-service.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/turtle-service.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8106618">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -284,12 +293,12 @@
       <created>1459169933856</created>
       <option name="number" value="Default" />
       <updated>1459169933856</updated>
-      <workItem from="1459169935213" duration="72000" />
+      <workItem from="1459169935213" duration="146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72000" />
+    <option name="totallyTimeSpent" value="146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2118" height="1281" extended-state="6" />
@@ -379,6 +388,14 @@
     <entry file="file://$PROJECT_DIR$/turtle-service.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8106618">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
